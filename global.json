@@ -1,0 +1,5 @@
+{
+  "sdk": {
+    "version": "8.0.403"  // Replace with your installed .NET 8.0 version
+  }
+}
