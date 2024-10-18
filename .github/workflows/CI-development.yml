@@ -3,10 +3,10 @@ name: Build and Publish Preview NuGet Package
 on:
   push:
     branches:
-      - Development
+      - development
   pull_request:
     branches:
-      - Development
+      - development
 
 jobs:
   build:
